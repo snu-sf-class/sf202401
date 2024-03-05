@@ -1,4 +1,4 @@
-# Software Foundations, SNU M1522.007300, 2024 Spring
+# Software Formal Verification, SNU M1522.007300, 2024 Spring
 
 - Instructor: Prof. [Chung-Kil Hur](http://sf.snu.ac.kr/gil.hur)
     + Email address: gil.hur@sf.snu.ac.kr
@@ -54,6 +54,14 @@ TBA
     + Emacs: [Company-Coq](https://github.com/cpitclaudel/company-coq). Follow the setup instructions.
         * If it shows `Searching for program No such file or directory coqtop` error, please add `(custom-set-variables '(coq-prog-name "PATH/TO/coqtop"))` to `.emacs` file.
         * In case of MacOS, coqtop is at `/Applications/CoqIDE_8.9.1.app/Contents/Resources/bin/`.
+
+- Tips for those using Windows
+    + Using [WSL](https://learn.microsoft.com/ko-kr/windows/wsl/install) allows you work on linux.
+    + In WSL, [WSL extension of VS Code](https://learn.microsoft.com/ko-kr/windows/wsl/tutorials/wsl-vscode) is recommended.
+
+## Tactics
+
+- You can look up manuals about [Basic tactics](https://coq.inria.fr/distrib/current/refman/proofs/writing-proofs/index.html), [Automatic solver](https://coq.inria.fr/refman/proofs/automatic-tactics/index.html), and [Ltac](https://coq.inria.fr/refman/proof-engine/ltac.html) for more information about proof techniques.
 
 #### Honor Code: *DO NOT CHEAT*
 - Do not copy others' source code, including other students' and resources around the web. Especially, do not consult with public repositories on software foundations.
