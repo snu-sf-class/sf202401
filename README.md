@@ -32,7 +32,7 @@ TBA
 
     + Using OPAM (Linux / MacOS) (recommended)
         * OPAM is OCaml package manager, and you can use it to install Coq in Linux.
-        * See [https://coq.inria.fr/opam/www/using.html](https://coq.inria.fr/opam/www/using.html).
+        * See [https://coq.inria.fr/opam-using.html](https://coq.inria.fr/opam-using.html).
 
     + Using brew (MacOS)
         * Run `brew install coq`.
@@ -61,7 +61,7 @@ TBA
 
 ## Tactics
 
-- You can look up manuals about [Basic tactics](https://coq.inria.fr/distrib/current/refman/proofs/writing-proofs/index.html), [Automatic solver](https://coq.inria.fr/refman/proofs/automatic-tactics/index.html), and [Ltac](https://coq.inria.fr/refman/proof-engine/ltac.html) for more information about proof techniques.
+- You can look up manuals about [Basic tactics](https://coq.inria.fr/doc/V8.18.0/refman/proofs/writing-proofs/index.html), [Automatic solver](https://coq.inria.fr/refman/proofs/automatic-tactics/index.html), and [Ltac](https://coq.inria.fr/refman/proof-engine/ltac.html) for more information about proof techniques.
 
 #### Honor Code: *DO NOT CHEAT*
 - Do not copy others' source code, including other students' and resources around the web. Especially, do not consult with public repositories on software foundations.
