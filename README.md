@@ -5,6 +5,9 @@
     + Office: 302-426
 - TA: [Jaewoo Kim](http://sf.snu.ac.kr/jaewoo.kim)
     + Email address: sf@sf.snu.ac.kr
+        * When sending TA an email,
+            * The subject (제목) must start with [SF]
+            * Your name and student ID must be included in the body (본문)
     + Office: 302-317
 - Class material: http://www.cis.upenn.edu/~bcpierce/sf/current/index.html
 - Please use email to ask questions (Do not use GitHub Issues)
