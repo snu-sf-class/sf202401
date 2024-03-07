@@ -59,6 +59,8 @@ TBA
     + Using [WSL](https://learn.microsoft.com/ko-kr/windows/wsl/install) allows you work on linux.
     + In WSL, [WSL extension of VS Code](https://learn.microsoft.com/ko-kr/windows/wsl/tutorials/wsl-vscode) is recommended.
 
+- It is likely that you will use your own laptop in mid-term and final exam. If you do not have a laptop or cannot install Coq on it, please let the TA know.
+
 ## Tactics
 
 - You can look up manuals about [Basic tactics](https://coq.inria.fr/doc/V8.18.0/refman/proofs/writing-proofs/index.html), [Automatic solver](https://coq.inria.fr/refman/proofs/automatic-tactics/index.html), and [Ltac](https://coq.inria.fr/refman/proof-engine/ltac.html) for more information about proof techniques.
