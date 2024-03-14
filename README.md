@@ -18,7 +18,7 @@ TBA
 
 ## Assignments
 
-TBA
+- You will use Git for assignments. The Homework Repo will soon be noticed _here_.
 
 ## Grading(tentative)
 - Attendance: 5%
