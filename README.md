@@ -18,7 +18,17 @@ TBA
 
 ## Assignments
 
+- Replace `FILL_IN_HERE` with your code in P**.v.
+- If you can't complete a proof, just put `Abort.` after `Proof.` (Do not use `admit.`, `Admitted`, etc.)
+- **Each assignment has forbidden keywords in forbidden.txt. Do not use those keywords.**
+- **Assignment with dependencies is scored using default skeleton file as dependencies in server. So, using custom definitions in different files is not allowed.**
+- **Try to finish your proof in one proof environment. Write additional 'Lemma' is not recommended. Use 'assert' tactic instead.**
+- No delayed submission.
 - You will use Git for assignments. The Homework Repo will soon be noticed _here_.
+
+| Due        	 | Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	    |
+|------------	 |---------------------------------------------------------------------------------------
+| TBA            | TBA                              	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 ## Grading(tentative)
 - Attendance: 5%
