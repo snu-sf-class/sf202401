@@ -20,15 +20,18 @@ TBA
 
 - Replace `FILL_IN_HERE` with your code in P**.v.
 - If you can't complete a proof, just put `Abort.` after `Proof.` (Do not use `admit.`, `Admitted`, etc.)
+- Please check `README` file of each assignment.
 - **Each assignment has forbidden keywords in forbidden.txt. Do not use those keywords.**
 - **Assignment with dependencies is scored using default skeleton file as dependencies in server. So, using custom definitions in different files is not allowed.**
 - **Try to finish your proof in one proof environment. Write additional 'Lemma' is not recommended. Use 'assert' tactic instead.**
+- Visit Homework Repo (TBA) and log-in with your <id>_sf2401 (e.g. 2016-12345_sf2401).
+- If you forget your password, email to ta(sf@sf.snu.ac.kr).
 - No delayed submission.
-- You will use Git for assignments. The Homework Repo will soon be noticed _here_.
+- Claims: within 2 weeks from the due date.
 
 | Due        	 | Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	    |
 |------------	 |---------------------------------------------------------------------------------------
-| TBA            | TBA                              	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| TBA            | Assignment 0                        	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 ## Grading(tentative)
 - Attendance: 5%
