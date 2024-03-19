@@ -24,14 +24,14 @@ TBA
 - **Each assignment has forbidden keywords in forbidden.txt. Do not use those keywords.**
 - **Assignment with dependencies is scored using default skeleton file as dependencies in server. So, using custom definitions in different files is not allowed.**
 - **Try to finish your proof in one proof environment. Write additional 'Lemma' is not recommended. Use 'assert' tactic instead.**
-- Visit Homework Repo (TBA) and log-in with your <id>_sf2401 (e.g. 2016-12345_sf2401).
+- Visit [Homework Repo](http://gl.kinetc.net:20105) and log-in with ID `<student_id>_sf2401` (e.g. 2016-12345_sf2401). Your initial password is `XAXBXCX1010XX`. Change your PW immidiately!
 - If you forget your password, email to ta(sf@sf.snu.ac.kr).
 - No delayed submission.
 - Claims: within 2 weeks from the due date.
 
-| Due        	 | Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	    |
-|------------	 |---------------------------------------------------------------------------------------
-| TBA            | Assignment 0                        	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| Due        	         | Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	    |
+|------------------------|------------------------------------------------------------------------------------------
+| 2024/3/31 23:59:59 KST | Assignment 0 (GitLab Test)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 ## Grading(tentative)
 - Attendance: 5%
