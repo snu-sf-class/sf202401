@@ -14,7 +14,7 @@
 
 ## Announcements
 
-TBA
+- Mar. 19: Assignment 0 is uploaded. If you have trouble signing-in GitLab page or cloning repo, contact TA through email.
 
 ## Assignments
 
