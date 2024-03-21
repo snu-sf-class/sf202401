@@ -14,6 +14,7 @@
 
 ## Announcements
 
+- Mar. 21: Assignment 1 is uploaded.
 - Mar. 19: Assignment 0 is uploaded. If you have trouble signing-in GitLab page or cloning repo, contact TA through email.
 
 ## Assignments
@@ -32,6 +33,7 @@
 | Due        	         | Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	    |
 |------------------------|------------------------------------------------------------------------------------------
 | 2024/3/31 23:59:59 KST | Assignment 0 (GitLab Test)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| 2024/4/5 23:59:59 KST  | Assignment 1 (Basic, Induction)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 ## Grading(tentative)
 - Attendance: 5%
