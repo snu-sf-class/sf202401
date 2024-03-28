@@ -14,6 +14,7 @@
 
 ## Announcements
 
+- Mar. 23: Issue for errata is made. Please check [errata](https://github.com/snu-sf-class/pp202401/issues/1) regularly.
 - Mar. 21: Assignment 1 is uploaded.
 - Mar. 19: Assignment 0 is uploaded. If you have trouble signing-in GitLab page or cloning repo, contact TA through email.
 
