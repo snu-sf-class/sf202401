@@ -14,7 +14,7 @@
 
 ## Announcements
 
-- Apr. 6: Assignment 2 is uploaded.
+- Apr. 6: Assignment 2 is uploaded. Before solving the problems, check if `git push` works properly for the assignment.
 - Mar. 28: Issue for errata is made. Please check [errata](https://github.com/snu-sf-class/sf202401/issues/2) regularly.
 - Mar. 21: Assignment 1 is uploaded.
 - Mar. 19: Assignment 0 is uploaded. If you have trouble signing-in GitLab page or cloning repo, contact TA through email.
@@ -28,6 +28,7 @@
 - **Assignment with dependencies is scored using default skeleton file as dependencies in server. So, using custom definitions in different files is not allowed.**
 - **Try to finish your proof in one proof environment. Write additional 'Lemma' is not recommended. Use 'assert' tactic instead.**
 - Visit [Homework Repo](http://gl.kinetc.net:20105) and log-in with ID `<student_id>_sf2401` (e.g. 2016-12345_sf2401). Your initial password is `XAXBXCX1010XX`. Change your PW immidiately!
+- Try to push something to the Homework Repo as soon as the assignment is open. Do not postpone checking `git push` until the last minute.
 - If you forget your password, email to ta(sf@sf.snu.ac.kr).
 - No delayed submission.
 - Claims: within 2 weeks from the due date.
