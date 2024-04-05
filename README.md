@@ -14,6 +14,7 @@
 
 ## Announcements
 
+- Apr. 6: Assignment 2 is uploaded.
 - Mar. 28: Issue for errata is made. Please check [errata](https://github.com/snu-sf-class/sf202401/issues/2) regularly.
 - Mar. 21: Assignment 1 is uploaded.
 - Mar. 19: Assignment 0 is uploaded. If you have trouble signing-in GitLab page or cloning repo, contact TA through email.
@@ -35,6 +36,7 @@
 |------------------------|------------------------------------------------------------------------------------------
 | 2024/3/31 23:59:59 KST | Assignment 0 (GitLab Test)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | 2024/4/5 23:59:59 KST  | Assignment 1 (Basic, Induction)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| 2024/4/19 23:59:59 KST  | Assignment 2 (Lists - Logic)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 ## Grading(tentative)
 - Attendance: 5%
