@@ -14,6 +14,7 @@
 
 ## Announcements
 
+- Apr. 8: Assignment 1 result is uploaded. Claims : until Apr 21.
 - Apr. 6: Assignment 2 is uploaded. Before solving the problems, check if `git push` works properly for the assignment.
 - Mar. 28: Issue for errata is made. Please check [errata](https://github.com/snu-sf-class/sf202401/issues/2) regularly.
 - Mar. 21: Assignment 1 is uploaded.
