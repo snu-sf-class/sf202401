@@ -22,6 +22,8 @@
 
 ## Assignments
 
+**Check errata (in Issues) regularly!**
+
 - Replace `FILL_IN_HERE` with your code in P**.v.
 - If you can't complete a proof, just put `Abort.` after `Proof.` (Do not use `admit.`, `Admitted`, etc.)
 - Please check `README` file of each assignment.
