@@ -15,7 +15,6 @@
 ## Announcements
 
 - Apr. 18: Midterm exam date is changed: May. 11 (Sat) (14:00-18:00). The instruction for Midterm will soon be uploaded.
-(Notice for Assignment 2 : Please check scoring policy for assignments in **errata** page, and do not overlook the restrictions. (This item will be removed from the list after Apr 18.))
 - Apr. 16: ~~Midterm exam : Apr. 28 (19:00 - 23:00)~~.
 - Apr. 8: Assignment 1 result is uploaded. Claims : until Apr 21.
 - Apr. 6: Assignment 2 is uploaded. Before solving the problems, check if `git push` works properly for the assignment.
