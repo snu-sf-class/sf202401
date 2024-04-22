@@ -14,7 +14,7 @@
 
 ## Announcements
 
-- Apr. 22: Assignment 1 result is uploaded. Claims : until May 6.
+- Apr. 22: Assignment 2 result is uploaded. Claims : until May 6.
 - Apr. 18: Midterm exam date is changed: May. 11 (Sat) (14:00-18:00). The instruction for Midterm will soon be uploaded.
 - Apr. 16: ~~Midterm exam : Apr. 28 (19:00 - 23:00)~~.
 - Apr. 8: Assignment 1 result is uploaded. Claims : until Apr 21.
