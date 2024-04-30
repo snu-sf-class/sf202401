@@ -14,6 +14,7 @@
 
 ## Announcements
 
+- Apr. 30: Assignment 3 is uploaded.
 - Apr. 22: Assignment 2 result is uploaded. Claims : until May 6.
 - Apr. 18: Midterm exam date is changed: May. 11 (Sat) (14:00-18:00). The instruction for Midterm will soon be uploaded.
 - Apr. 16: ~~Midterm exam : Apr. 28 (19:00 - 23:00)~~.
@@ -44,6 +45,7 @@
 | 2024/3/31 23:59:59 KST | Assignment 0 (GitLab Test)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | 2024/4/5 23:59:59 KST  | Assignment 1 (Basic, Induction)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | 2024/4/19 23:59:59 KST  | Assignment 2 (Lists - Logic)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| 2024/5/14 23:59:59 KST  | Assignment 3 (IndProp - Imp)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 ## Grading(tentative)
 - Attendance: 5%
