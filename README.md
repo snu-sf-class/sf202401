@@ -20,7 +20,7 @@
 - Apr. 16: ~~Midterm exam : Apr. 28 (19:00 - 23:00)~~.
 - Apr. 8: Assignment 1 result is uploaded. Claims : until Apr 21.
 - Apr. 6: Assignment 2 is uploaded. Before solving the problems, check if `git push` works properly for the assignment.
-- Mar. 28: Issue for errata is made. Please check [errata](https://github.com/snu-sf-class/sf202401/issues/2) regularly. (Issue Latest Update : **Apr 18**)
+- Mar. 28: Issue for errata is made. Please check [errata](https://github.com/snu-sf-class/sf202401/issues/2) regularly. (Issue Latest Update : **May 8**)
 - Mar. 21: Assignment 1 is uploaded.
 - Mar. 19: Assignment 0 is uploaded. If you have trouble signing-in GitLab page or cloning repo, contact TA through email.
 
