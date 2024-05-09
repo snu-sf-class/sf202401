@@ -14,6 +14,7 @@
 
 ## Announcements
 
+(Please check Midterm Instruction and prepare the exam accordingly.)
 - May. 9: 금일 수업은 휴강입니다.
 - Apr. 30: Assignment 3 is uploaded. (Temporary Notification: There is an errata for Assignment 3. Please check it.)
 - Apr. 22: Assignment 2 result is uploaded. Claims : until May 6.
