@@ -14,6 +14,7 @@
 
 ## Announcements
 
+- May. 9: 금일 수업은 휴강입니다.
 - Apr. 30: Assignment 3 is uploaded. (Temporary Notification: There is an errata for Assignment 3. Please check it.)
 - Apr. 22: Assignment 2 result is uploaded. Claims : until May 6.
 - Apr. 18: Midterm exam date is changed: May. 11 (Sat) (14:00-18:00). See [instruction](https://github.com/snu-sf-class/sf202401/blob/main/MidtermInstruction.md).
