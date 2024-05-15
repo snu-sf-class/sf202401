@@ -14,9 +14,10 @@
 
 ## Announcements
 
+- May. 16: Assignment 4 is uploaded.
 - May. 15: Midterm result is uploaded. Claims : until May 28.
 - May. 9: 금일 수업은 휴강입니다.
-- Apr. 30: Assignment 3 is uploaded. (Temporary Notification: There is an errata for Assignment 3. Please check it.)
+- Apr. 30: Assignment 3 is uploaded.
 - Apr. 22: Assignment 2 result is uploaded. Claims : until May 6.
 - Apr. 18: Midterm exam date is changed: May. 11 (Sat) (14:00-18:00). See [instruction](https://github.com/snu-sf-class/sf202401/blob/main/MidtermInstruction.md).
 - Apr. 16: ~~Midterm exam : Apr. 28 (19:00 - 23:00)~~.
@@ -48,6 +49,7 @@
 | 2024/4/5 23:59:59 KST  | Assignment 1 (Basic, Induction)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | 2024/4/19 23:59:59 KST  | Assignment 2 (Lists - Logic)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | 2024/5/14 23:59:59 KST  | Assignment 3 (IndProp - Imp)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| 2024/5/29 23:59:59 KST  | Assignment 4 (Equiv - Hoare)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 ## Grading(tentative)
 - Attendance: 5%
