@@ -14,6 +14,7 @@
 
 ## Announcements
 
+- May. 20: Assignment 3 result is uploaded (see eTL). Claims : until Jun 2.
 - May. 16: Assignment 4 is uploaded.
 - May. 15: Midterm result is uploaded. Claims : until May 28.
 - May. 9: 금일 수업은 휴강입니다.
