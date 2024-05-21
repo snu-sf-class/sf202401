@@ -32,7 +32,7 @@
 
 **Check errata (in Issues) regularly!**
 
-**Check again that the code compiles without error before submission.**
+**Check again that your code compiles without error (using `make`) before submission.**
 
 - Replace `FILL_IN_HERE` with your code in P**.v.
 - If you can't complete a proof, just put `Abort.` after `Proof.` (Do not use `admit.`, `Admitted`, etc.)
