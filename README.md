@@ -15,6 +15,7 @@
 ## Announcements
 
 (Temporary Notification : Errata for Assignments (compile timeout) is uploaded.)
+- May. 24: Assignment 5 is uploaded.
 - May. 23: Final exam : Jun. 16 (14:00 - 18:00). The instruction will soon be uploaded.
 - May. 20: Assignment 3 result is uploaded (see eTL). Claims : until Jun 2.
 - May. 16: Assignment 4 is uploaded.
@@ -55,6 +56,7 @@
 | 2024/4/19 23:59:59 KST  | Assignment 2 (Lists - Logic)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | 2024/5/14 23:59:59 KST  | Assignment 3 (IndProp - Imp)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | 2024/5/29 23:59:59 KST  | Assignment 4 (Equiv - Hoare)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| 2024/6/7 23:59:59 KST  | Assignment 5 (Hoare2 - HoareasLogic)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 ## Grading(tentative)
 - Attendance: 5%
