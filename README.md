@@ -47,7 +47,7 @@
 - Try to push something to the Homework Repo as soon as the assignment is open. Do not postpone checking `git push` until the last minute.
 - If you forget your password, email to ta(sf@sf.snu.ac.kr).
 - No delayed submission.
-- Claims: within 2 weeks from the due date.
+- Claims: see the claim date for each assignment/exam.
 
 | Due        	         | Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	    |
 |------------------------|------------------------------------------------------------------------------------------
