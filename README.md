@@ -15,6 +15,7 @@
 ## Announcements
 
 (Temporary Notification : Errata for Assignments (compile timeout) is uploaded.)
+- May. 30: Assignment 4 result is uploaded (see eTL). Claims : until **Jun 6**.
 - May. 24: Assignment 5 is uploaded.
 - May. 23: Final exam : Jun. 16 (14:00 - 18:00). The instruction will soon be uploaded.
 - May. 20: Assignment 3 result is uploaded (see eTL). Claims : until Jun 2.
