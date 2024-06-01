@@ -15,6 +15,7 @@
 ## Announcements
 
 (Temporary Notification : Errata for Assignment 5 (about problem in make) is uploaded.)
+- Jun. 1: Assignment 6 is uploaded.
 - May. 30: Assignment 4 result is uploaded (see eTL). Claims : until **Jun 6**.
 - May. 24: Assignment 5 is uploaded.
 - May. 23: Final exam : Jun. 16 (14:00 - 18:00). The instruction will soon be uploaded.
@@ -58,6 +59,7 @@
 | 2024/5/14 23:59:59 KST  | Assignment 3 (IndProp - Imp)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | 2024/5/29 23:59:59 KST  | Assignment 4 (Equiv - Hoare)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | 2024/6/7 23:59:59 KST  | Assignment 5 (Hoare2 - HoareasLogic)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| 2024/6/14 23:59:59 KST  | Assignment 6 (Smallstep - MoreStlc)          	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 ## Grading(tentative)
 - Attendance: 5%
