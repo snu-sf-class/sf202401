@@ -15,6 +15,7 @@
 ## Announcements
 
 (Temporary Notification : Errata for Assignment 5 (about problem in make) is uploaded.)
+- Jun. 4: 6월 6일에는 수업이 없습니다.
 - Jun. 1: Assignment 6 is uploaded.
 - May. 30: Assignment 4 result is uploaded (see eTL). Claims : until **Jun 6**.
 - May. 24: Assignment 5 is uploaded.
