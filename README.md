@@ -14,7 +14,7 @@
 
 ## Announcements
 
-(Temporary Notificiation: Currently, there is an issue about server. On Thursday, the (possibly alternative) submission method for assignment 6 will be notified. -> The problem was resolved. You can submit assignment 6 by git push.) 
+(Temporary Notificiation: Currently, there is an issue about server. On Thursday, the (possibly alternative) submission method for assignment 6 will be notified. -> The problem was resolved. You can submit assignment 6 by git push. Please refer to corresponding issue.) 
 - Jun. 8: Assignment 5 result is uploaded (see eTL). Claims : until **Jun 13**.
 - Jun. 4: 6월 6일에는 수업이 없습니다.
 - Jun. 1: Assignment 6 is uploaded.
@@ -31,7 +31,7 @@
 - Apr. 16: ~~Midterm exam : Apr. 28 (19:00 - 23:00)~~.
 - Apr. 8: Assignment 1 result is uploaded. Claims : until Apr 21.
 - Apr. 6: Assignment 2 is uploaded. Before solving the problems, check if `git push` works properly for the assignment.
-- Mar. 28: Issue for errata is made. Please check [errata](https://github.com/snu-sf-class/sf202401/issues/2) regularly. (Issue Latest Update : **May 30**)
+- Mar. 28: Issue for errata is made. Please check [errata](https://github.com/snu-sf-class/sf202401/issues/2) regularly. (Issue Latest Update : **Jun 12**)
 - Mar. 21: Assignment 1 is uploaded.
 - Mar. 19: Assignment 0 is uploaded. If you have trouble signing-in GitLab page or cloning repo, contact TA through email.
 
