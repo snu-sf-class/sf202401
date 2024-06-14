@@ -1,11 +1,10 @@
 # Final Exam
 
-(추후 내용이 추가될 수 있습니다.)
-
 - Date: June 16 (Sun), 2pm ~ 6pm (no strict timeout)
 - Place: Hardware Lab or Software Lab (Building 302, 3rd floor) - 일단 소프트웨어 실습실로 오시면 됩니다.
 - 시험범위는 수업에서 배운 전 범위입니다.
 - 사용할 수 있는 개인 노트북을 반드시 지참해 주시기 바랍니다. (시험이 오래 진행되므로 충전기를 함께 가져오는 것을 권장드립니다.)
+  - 만일을 위해, 개인 노트북 로컬에서 Coq 18과 VSCoq이 작동하는지 확인해 주시기 바랍니다.
 - 시험에서, 개인 노트북을 통해 Theia 등의 VSCode 환경에 기반한 WebIDE를 사용하여 웹 환경에서 시험 코드를 작성할 예정입니다. Theia 등의 편집기에는 VsCoq Extension만 기본 설정으로 들어갈 예정입니다. (추후 변동 가능성 있음) 따라서 시험 전에 VsCoq을 사용해 보시기 바랍니다.
   - 미리 Chrome 브라우저를 install해 주시기 바랍니다. (Safari, Firefox 이용은 어렵습니다.)
   - 학내망에 접속해야 하기 때문에, **eduroam**에 Wi-fi 연결이 되는지 확인하시기 바랍니다. cf) [Wi-fi 이용 안내](https://ist.snu.ac.kr/wifi/)
