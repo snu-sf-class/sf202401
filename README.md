@@ -14,7 +14,6 @@
 
 ## Announcements
 
-(Temporary Notificiation: Currently, there is an issue about server. On Thursday, the (possibly alternative) submission method for assignment 6 will be notified. -> The problem was resolved. You can submit assignment 6 by git push. Please refer to corresponding issue.) 
 - Jun. 8: Assignment 5 result is uploaded (see eTL). Claims : until **Jun 13**.
 - Jun. 4: 6월 6일에는 수업이 없습니다.
 - Jun. 1: Assignment 6 is uploaded.
