@@ -14,6 +14,7 @@
 
 ## Announcements
 
+Claim mails only before 18/06/2024 15:59:59 will be responded.
 - Jun. 17: Final result is uploaded (see eTL). Claims : until **Jun 18 15:59:59**.
 - Jun. 15: Assignment 6 result is uploaded (see eTL). Claims : until **Jun 17**.
 - Jun. 8: Assignment 5 result is uploaded (see eTL). Claims : until **Jun 13**.
